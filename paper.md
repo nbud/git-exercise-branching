@@ -1,6 +1,6 @@
 # Section 1
 
-Ze sun eez shining.
+The sun is shining.
 
 # Section 2
 
