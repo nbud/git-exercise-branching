@@ -1,7 +1,7 @@
 # Section 1
 
-Ze sun eez shining.
+Ze sun eez shining and the sky is blue.
 
 # Section 2
 
-TODO
+The birds are singing.
